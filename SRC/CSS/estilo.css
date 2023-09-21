@@ -2,6 +2,24 @@
 @import url('https://fonts.googleapis.com/css2? family= Passion+One & display=swap');
 @import url('https://fonts.googleapis.com/css2? família = Sriracha & display=swap');
 
+*{
+	Margin :0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+ul{
+	list-style: none;
+
+}
+
+a{
+
+	text-decoration: none;
+	color:  #000;
+}
+
 :root {
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2: 'Passion One', cursive;
